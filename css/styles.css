@@ -103,6 +103,10 @@ h2{
   font-family: 'Lilita One';
   font-size: 3rem;
   line-height: 1.5;
+  text-align:center;
+}
+p{
+  text-align:center;
 }
 .testimg{
   width: 10%;
